@@ -1,6 +1,6 @@
 import SQLite from "better-sqlite3";
 
-declare module "@devsnowflake/quick.db" {
+declare module "@pisaucer/quick.db" {
 
     export interface ParsedKey {
         id?: string;

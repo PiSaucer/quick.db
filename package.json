@@ -1,11 +1,11 @@
 {
   "name": "@pisaucer/quick.db",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "The hackable quick.db",
   "types": "typings/index.d.ts",
   "main": "index.js",
   "scripts": {
-    "test": "cd test && node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -20,8 +20,7 @@
     "db",
     "easy",
     "simple",
-    "fast",
-    "enmap"
+    "fast"
   ],
   "author": "pisaucer",
   "license": "Apache-2.0",
@@ -30,7 +29,7 @@
   },
   "homepage": "https://github.com/pisaucer/quick.db#readme",
   "dependencies": {
-    "better-sqlite3": "^7.1.2",
+    "better-sqlite3": "^9.1.7",
     "lodash": "^4.17.20"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@devsnowflake/quick.db",
+  "name": "@pisaucer/quick.db",
   "version": "2.0.3",
   "description": "The hackable quick.db",
   "types": "typings/index.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevSnowflake/quick.db.git"
+    "url": "git+https://github.com/pisaucer/quick.db.git"
   },
   "keywords": [
     "quick.db",
@@ -23,12 +23,12 @@
     "fast",
     "enmap"
   ],
-  "author": "Snowflake107",
+  "author": "pisaucer",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/DevSnowflake/quick.db/issues"
+    "url": "https://github.com/pisaucer/quick.db/issues"
   },
-  "homepage": "https://github.com/DevSnowflake/quick.db#readme",
+  "homepage": "https://github.com/pisaucer/quick.db#readme",
   "dependencies": {
     "better-sqlite3": "^7.1.2",
     "lodash": "^4.17.20"
